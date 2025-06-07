@@ -13,3 +13,4 @@ Bonus: Add a learning system that updates based on usage.
 DSA: Trees, Hash Tables, Linked Lists.
 Goal: Implement folder structure, file creation, deletion, and path traversal (cd, ls, mkdir, etc.).
 Good for: Understanding hierarchical data.
+
